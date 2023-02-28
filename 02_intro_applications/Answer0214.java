@@ -6,7 +6,7 @@ the numbers are equal, print the message "These numbers are equal".
 
 import java.util.Scanner;
 
-public class Larger {
+public class Answer0214 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
